@@ -1,0 +1,7 @@
+https://docs.directus.io/self-hosted/upgrades-migrations.html
+
+Upgrading / Updating a Project
+
+    Backup your project
+    Run npm update
+    Run npx directus database migrate:latest to update the DB
